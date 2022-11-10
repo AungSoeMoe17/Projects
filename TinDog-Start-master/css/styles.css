@@ -1,0 +1,17 @@
+/* 
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+ */
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem; 
+    /* 3rem in course */
+    font-weight: bolder;
+    line-height: 1.5;
+}
